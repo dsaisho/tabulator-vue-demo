@@ -12,7 +12,7 @@ npm run serve
 
 
 ### Tabulator Documentation
-See [Configuration Reference](http://tabulator.info/docs/4.9).
+See [Tabulator Docs](http://tabulator.info/docs/4.9).
 
 
 ### Sauce
