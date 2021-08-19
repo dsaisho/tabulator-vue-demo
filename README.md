@@ -15,7 +15,7 @@ npm run serve
 See [Configuration Reference](http://tabulator.info/docs/4.9).
 
 
-### App Source
+### Sauce
 ```
 <template>
   <div id="app">
